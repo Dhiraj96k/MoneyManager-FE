@@ -115,8 +115,7 @@ npm run build
 
 The application is deployed using **Vercel**.
 
-🔗 **Live URL:** [https://money-manager-f-e-w94p.vercel.app/](https://money-manager-f-e-w94p.vercel.app/)
-
+🔗 **Live URL:** [https://moneymanagerfe.vercel.app/login](https://moneymanagerfe.vercel.app/login)
 Steps used:
 
 * Connected GitHub repository
