@@ -1,6 +1,6 @@
 # 💰 Money Manager – Frontend (React + Vite)
 
-🚀 **Live Application:** [https://money-manager-f-e-w94p.vercel.app/](https://money-manager-f-e-w94p.vercel.app/)
+🚀 **Live Application:** 
 
 A modern, responsive **Personal Money Management Web Application** built using **React, Vite, and modern frontend practices**. This application helps users manage their income and expenses efficiently with a clean UI and secure integration with backend APIs.
 
