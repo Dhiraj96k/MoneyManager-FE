@@ -74,7 +74,7 @@ VITE_API_URL=your_backend_api_url
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/Tejas-jadhav1/money-manager-fE.git
+git clone [https://github.com/Dhiraj96k/MoneyManager-FE.git](https://github.com/Dhiraj96k/MoneyManager-FE.git)
 ```
 
 ### 2️⃣ Navigate to Project Folder
